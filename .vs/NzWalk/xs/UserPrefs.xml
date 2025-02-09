@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{4F24DBEF-B7A5-43A8-B033-D7EC743A542B}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NzWalkApi/Controllers/WeatherForecastController.cs">
+    <Files>
+      <File FileName="NzWalkApi/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="NzWalkApi/Program.cs" Line="1" Column="1" />
+      <File FileName="NzWalkApi/Controllers/WeatherForecastController.cs" Line="35" Column="8" />
+      <File FileName="NzWalkApi/WeatherForecast.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NzWalk" expanded="True">
+            <Node name="NzWalkApi" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="WeatherForecastController.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.NzWalkApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
